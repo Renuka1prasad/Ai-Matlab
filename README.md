@@ -6,7 +6,7 @@ This material outlines a hands-on workshop on learning how to develop AI-based a
 
 ![MATLAB AI robotics workshop demo video](doc/matlab_ai_robotics_workshop.gif)
 
-[Japanese version](README_JP.md)
+
 
 ## Setup
 
