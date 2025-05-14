@@ -50,9 +50,7 @@ Following MathWorks products and 3rd party products are additionally required fo
 
 Please find the [PDF documentation](doc/AI_Robotics_Workshop.pdf) for details.
 
-## License
 
-The license for MATLAB AI Robotics Workshop is available in the [license.txt](license.txt) file in this GitHub repository.
 
 ## Community Support
 
